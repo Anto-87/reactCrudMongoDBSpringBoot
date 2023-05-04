@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://antochris1987:Anto$2023@microcmpny.cww4apd.mongodb.net/test
+            database:  company_management
